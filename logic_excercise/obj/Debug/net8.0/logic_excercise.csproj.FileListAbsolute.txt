@@ -1,0 +1,15 @@
+C:\Batch_13\logic_excercise\bin\Debug\net8.0\logic_excercise.exe
+C:\Batch_13\logic_excercise\bin\Debug\net8.0\logic_excercise.deps.json
+C:\Batch_13\logic_excercise\bin\Debug\net8.0\logic_excercise.runtimeconfig.json
+C:\Batch_13\logic_excercise\bin\Debug\net8.0\logic_excercise.dll
+C:\Batch_13\logic_excercise\bin\Debug\net8.0\logic_excercise.pdb
+C:\Batch_13\logic_excercise\obj\Debug\net8.0\logic_excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Batch_13\logic_excercise\obj\Debug\net8.0\logic_excercise.AssemblyInfoInputs.cache
+C:\Batch_13\logic_excercise\obj\Debug\net8.0\logic_excercise.AssemblyInfo.cs
+C:\Batch_13\logic_excercise\obj\Debug\net8.0\logic_excercise.csproj.CoreCompileInputs.cache
+C:\Batch_13\logic_excercise\obj\Debug\net8.0\logic_excercise.sourcelink.json
+C:\Batch_13\logic_excercise\obj\Debug\net8.0\logic_excercise.dll
+C:\Batch_13\logic_excercise\obj\Debug\net8.0\refint\logic_excercise.dll
+C:\Batch_13\logic_excercise\obj\Debug\net8.0\logic_excercise.pdb
+C:\Batch_13\logic_excercise\obj\Debug\net8.0\logic_excercise.genruntimeconfig.cache
+C:\Batch_13\logic_excercise\obj\Debug\net8.0\ref\logic_excercise.dll
