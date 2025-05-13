@@ -1,0 +1,14 @@
+C:\Batch_13\Day_1\bin\Debug\net8.0\Day_1.exe
+C:\Batch_13\Day_1\bin\Debug\net8.0\Day_1.deps.json
+C:\Batch_13\Day_1\bin\Debug\net8.0\Day_1.runtimeconfig.json
+C:\Batch_13\Day_1\bin\Debug\net8.0\Day_1.dll
+C:\Batch_13\Day_1\bin\Debug\net8.0\Day_1.pdb
+C:\Batch_13\Day_1\obj\Debug\net8.0\Day_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Batch_13\Day_1\obj\Debug\net8.0\Day_1.AssemblyInfoInputs.cache
+C:\Batch_13\Day_1\obj\Debug\net8.0\Day_1.AssemblyInfo.cs
+C:\Batch_13\Day_1\obj\Debug\net8.0\Day_1.csproj.CoreCompileInputs.cache
+C:\Batch_13\Day_1\obj\Debug\net8.0\Day_1.dll
+C:\Batch_13\Day_1\obj\Debug\net8.0\refint\Day_1.dll
+C:\Batch_13\Day_1\obj\Debug\net8.0\Day_1.pdb
+C:\Batch_13\Day_1\obj\Debug\net8.0\Day_1.genruntimeconfig.cache
+C:\Batch_13\Day_1\obj\Debug\net8.0\ref\Day_1.dll
