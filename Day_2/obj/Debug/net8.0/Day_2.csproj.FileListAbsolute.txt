@@ -1,0 +1,15 @@
+C:\Batch_13\Day_2\bin\Debug\net8.0\Day_2.exe
+C:\Batch_13\Day_2\bin\Debug\net8.0\Day_2.deps.json
+C:\Batch_13\Day_2\bin\Debug\net8.0\Day_2.runtimeconfig.json
+C:\Batch_13\Day_2\bin\Debug\net8.0\Day_2.dll
+C:\Batch_13\Day_2\bin\Debug\net8.0\Day_2.pdb
+C:\Batch_13\Day_2\obj\Debug\net8.0\Day_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Batch_13\Day_2\obj\Debug\net8.0\Day_2.AssemblyInfoInputs.cache
+C:\Batch_13\Day_2\obj\Debug\net8.0\Day_2.AssemblyInfo.cs
+C:\Batch_13\Day_2\obj\Debug\net8.0\Day_2.csproj.CoreCompileInputs.cache
+C:\Batch_13\Day_2\obj\Debug\net8.0\Day_2.sourcelink.json
+C:\Batch_13\Day_2\obj\Debug\net8.0\Day_2.dll
+C:\Batch_13\Day_2\obj\Debug\net8.0\refint\Day_2.dll
+C:\Batch_13\Day_2\obj\Debug\net8.0\Day_2.pdb
+C:\Batch_13\Day_2\obj\Debug\net8.0\Day_2.genruntimeconfig.cache
+C:\Batch_13\Day_2\obj\Debug\net8.0\ref\Day_2.dll
