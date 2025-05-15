@@ -31,14 +31,14 @@ myInventory.Add(goods);
 myInventory.Add(goods2);
 Transaction Setor = new Transaction{Debet=7_000_000};
 Transaction Tarik = new Transaction{Credit=1_000_000};
-Console.WriteLine(JsonSerializer.Serialize(myWealth));
-Console.WriteLine(JsonSerializer.Serialize(myInventory));
+Console.WriteLine("Wealth : " + JsonSerializer.Serialize(myWealth));
+Console.WriteLine("Inventory : " + JsonSerializer.Serialize(myInventory));
 myWealth.Add(Setor);
 myWealth.Subtract(Tarik);
 goods.Add(1);
 goods2.Subtract(1);
-Console.WriteLine(JsonSerializer.Serialize(myWealth));
-Console.WriteLine(JsonSerializer.Serialize(myInventory));
+Console.WriteLine("Wealth : " + JsonSerializer.Serialize(myWealth));
+Console.WriteLine("Inventory : " + JsonSerializer.Serialize(myInventory));
 
 public class @Utils{
     public static void Rename(PersonClass person) {
