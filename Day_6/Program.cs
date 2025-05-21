@@ -13,8 +13,10 @@ foreach (var item in Utils.Foo(false))
 // {
 //     Console.WriteLine($"Mengambil angka: {number}");
 // }
-int? x = 7;
-Console.WriteLine(x.HasValue);
+int? x = 5;
+int? y = null;
+int? damn = x + y;
+Console.WriteLine($"DAMNNNNNNNN : {damn}");
 
 ComplexNumber c1 = new ComplexNumber(2, 3);
 ComplexNumber c2 = new ComplexNumber(4, 5);

@@ -1,0 +1,15 @@
+C:\Batch_13\logic_excericise_2\bin\Debug\net8.0\logic_excericise_2.exe
+C:\Batch_13\logic_excericise_2\bin\Debug\net8.0\logic_excericise_2.deps.json
+C:\Batch_13\logic_excericise_2\bin\Debug\net8.0\logic_excericise_2.runtimeconfig.json
+C:\Batch_13\logic_excericise_2\bin\Debug\net8.0\logic_excericise_2.dll
+C:\Batch_13\logic_excericise_2\bin\Debug\net8.0\logic_excericise_2.pdb
+C:\Batch_13\logic_excericise_2\obj\Debug\net8.0\logic_excericise_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Batch_13\logic_excericise_2\obj\Debug\net8.0\logic_excericise_2.AssemblyInfoInputs.cache
+C:\Batch_13\logic_excericise_2\obj\Debug\net8.0\logic_excericise_2.AssemblyInfo.cs
+C:\Batch_13\logic_excericise_2\obj\Debug\net8.0\logic_excericise_2.csproj.CoreCompileInputs.cache
+C:\Batch_13\logic_excericise_2\obj\Debug\net8.0\logic_excericise_2.sourcelink.json
+C:\Batch_13\logic_excericise_2\obj\Debug\net8.0\logic_excericise_2.dll
+C:\Batch_13\logic_excericise_2\obj\Debug\net8.0\refint\logic_excericise_2.dll
+C:\Batch_13\logic_excericise_2\obj\Debug\net8.0\logic_excericise_2.pdb
+C:\Batch_13\logic_excericise_2\obj\Debug\net8.0\logic_excericise_2.genruntimeconfig.cache
+C:\Batch_13\logic_excericise_2\obj\Debug\net8.0\ref\logic_excericise_2.dll
