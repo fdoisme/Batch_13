@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logic_exercise_3", "logic_exercise_3\logic_exercise_3.csproj", "{685FC37A-2377-406E-8664-1E8C60952BCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread_multithread_task_async", "thread_multithread_task_async\thread_multithread_task_async.csproj", "{F298C192-3288-4ED1-8A09-7F8330A68FA1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +80,9 @@ Global
 		{685FC37A-2377-406E-8664-1E8C60952BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{685FC37A-2377-406E-8664-1E8C60952BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{685FC37A-2377-406E-8664-1E8C60952BCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F298C192-3288-4ED1-8A09-7F8330A68FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F298C192-3288-4ED1-8A09-7F8330A68FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F298C192-3288-4ED1-8A09-7F8330A68FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F298C192-3288-4ED1-8A09-7F8330A68FA1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

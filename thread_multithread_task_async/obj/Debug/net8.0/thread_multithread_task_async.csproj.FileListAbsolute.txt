@@ -1,0 +1,15 @@
+C:\Batch_13\thread_multithread_task_async\bin\Debug\net8.0\thread_multithread_task_async.exe
+C:\Batch_13\thread_multithread_task_async\bin\Debug\net8.0\thread_multithread_task_async.deps.json
+C:\Batch_13\thread_multithread_task_async\bin\Debug\net8.0\thread_multithread_task_async.runtimeconfig.json
+C:\Batch_13\thread_multithread_task_async\bin\Debug\net8.0\thread_multithread_task_async.dll
+C:\Batch_13\thread_multithread_task_async\bin\Debug\net8.0\thread_multithread_task_async.pdb
+C:\Batch_13\thread_multithread_task_async\obj\Debug\net8.0\thread_multithread_task_async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Batch_13\thread_multithread_task_async\obj\Debug\net8.0\thread_multithread_task_async.AssemblyInfoInputs.cache
+C:\Batch_13\thread_multithread_task_async\obj\Debug\net8.0\thread_multithread_task_async.AssemblyInfo.cs
+C:\Batch_13\thread_multithread_task_async\obj\Debug\net8.0\thread_multithread_task_async.csproj.CoreCompileInputs.cache
+C:\Batch_13\thread_multithread_task_async\obj\Debug\net8.0\thread_multithread_task_async.sourcelink.json
+C:\Batch_13\thread_multithread_task_async\obj\Debug\net8.0\thread_multithread_task_async.dll
+C:\Batch_13\thread_multithread_task_async\obj\Debug\net8.0\refint\thread_multithread_task_async.dll
+C:\Batch_13\thread_multithread_task_async\obj\Debug\net8.0\thread_multithread_task_async.pdb
+C:\Batch_13\thread_multithread_task_async\obj\Debug\net8.0\thread_multithread_task_async.genruntimeconfig.cache
+C:\Batch_13\thread_multithread_task_async\obj\Debug\net8.0\ref\thread_multithread_task_async.dll
