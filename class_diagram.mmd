@@ -1,0 +1,164 @@
+%% classDiagram
+%%         Animal <|-- Duck
+%%         Animal <|-- Fish
+%%         Animal <|-- Zebra
+%%         Animal : +int age
+%%         Animal : +String gender
+%%         Animal : int age
+%%         Animal: +isMammal()
+%%         Animal: +mate()
+%% %% King, Queen, Rook, Bishop, Knight, Pawn
+%%         class Table {
+%%           +string[][] coordinates
+%%           +toString() %% draws the table
+%%         }
+%%         class ChessPiece {
+%%           +String color
+%%           +String name
+%%           +toString()
+%%         }
+%%         class ICheckerMove {
+%%             <<interface>>
+%%           +isChecked()
+%%           +isAvailable()
+%%         }
+classDiagram
+
+        class Status {
+            <<enum>>
+            Normal
+            Check
+            Checkmate
+        }
+
+        class Color {
+            <<enum>>
+            White
+            Black
+        }
+        class PieceEnum {
+            <<enum>>
+            King
+            Queen
+            Bishop
+            Knight
+            Rook
+            Pawn
+        }
+
+        %% class Move {
+        %%     +Cell StartCell
+        %%     +Cell EndingCell
+        %%     +Piece PieceKilled
+        %%     +Player Player
+        %%     +bool IsCastlingMove
+
+        %%     +void SetCastlingMove()
+        %% }
+
+        class Cell {
+          <<struct>>
+            +int row 
+            +char column
+
+            +ValidateCell() : bool
+        }
+
+        class Board {
+            +string board
+
+            +Translation(List<.Piece> pieces):void
+            +Draw():void
+        }
+
+        class Piece {
+            +bool isAlive
+            +Color color
+            +Cell position
+            +PieceEnum piece
+            +int ordinal
+
+            +MovePattern() : List<.Cell>
+            +ValidateMove(Cell destination) : bool
+        }
+
+        class King {
+            +bool isCanCastling
+
+            +MovePattern() : List<.Cell>
+            +ValidateMove(Cell destination) : bool
+        }
+
+        class Queen {
+            +MovePattern() : List<.Cell>
+            +ValidateMove(Cell destination) : bool
+        }
+
+        class Bishop {
+            +MovePattern() : List<.Cell>
+            +ValidateMove(Cell destination) : bool
+        }
+
+        class Knight {
+            +MovePattern() : List<.Cell>
+            +ValidateMove(Cell destination) : bool
+        }
+        
+        class Rook {
+            +MovePattern() : List<.Cell>
+            +ValidateMove(Cell destination) : bool
+        }
+
+        class Pawn {
+            +bool isFirstMove
+            +MovePattern() : List<.Cell>
+            +ValidateMove(Cell destination) : bool
+            +Promote(Cell destination) : Piece
+        }
+
+        class Player {
+            +Color side
+            +Status status
+            +bool isTurn
+
+            %% +IsChecked():bool
+        }
+
+        class GameController {
+            +Status status
+            +List<.Player> player
+            +List<.Piece> pieces
+            +Board board
+
+            +ValidatePiece(Player player): bool
+            +ValidateDestination(Player player): bool
+            +ValidateMove(): bool
+            +PieceMove() : void
+            +ValidateChecked() : bool
+            +ValidateCheckmate() : bool
+            +PlayerMove() : void
+            +StartGame(): void
+            +EndGame(): void
+        }
+
+        %% class GameView {
+        %%     +bool DisplayMove()
+        %% }
+
+        GameController --> Player
+        GameController --> Board
+        GameController --> Piece
+
+
+        Board --> Cell
+        Board --> Piece
+        Cell --> Piece
+
+        Piece <|-- King
+        Piece <|-- Queen
+        Piece <|-- Bishop
+        Piece <|-- Knight
+        Piece <|-- Rook
+        Piece <|-- Pawn
+
+```

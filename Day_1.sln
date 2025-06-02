@@ -21,6 +21,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_6", "Day_6\Day_6.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logic_excericise_2", "logic_excericise_2\logic_excericise_2.csproj", "{CAF89D46-98DD-420C-83B9-357E0130B976}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chess", "Chess\Chess.csproj", "{B1B220BC-5C3C-4369-A69B-5E28CE0CEE52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logic_exercise_3", "logic_exercise_3\logic_exercise_3.csproj", "{685FC37A-2377-406E-8664-1E8C60952BCD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -66,5 +70,13 @@ Global
 		{CAF89D46-98DD-420C-83B9-357E0130B976}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAF89D46-98DD-420C-83B9-357E0130B976}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAF89D46-98DD-420C-83B9-357E0130B976}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1B220BC-5C3C-4369-A69B-5E28CE0CEE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1B220BC-5C3C-4369-A69B-5E28CE0CEE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1B220BC-5C3C-4369-A69B-5E28CE0CEE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1B220BC-5C3C-4369-A69B-5E28CE0CEE52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{685FC37A-2377-406E-8664-1E8C60952BCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{685FC37A-2377-406E-8664-1E8C60952BCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{685FC37A-2377-406E-8664-1E8C60952BCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{685FC37A-2377-406E-8664-1E8C60952BCD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
