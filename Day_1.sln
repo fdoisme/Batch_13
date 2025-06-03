@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logic_exercise_3", "logic_e
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thread_multithread_task_async", "thread_multithread_task_async\thread_multithread_task_async.csproj", "{F298C192-3288-4ED1-8A09-7F8330A68FA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "final_logic_excercise", "final_logic_excercise\final_logic_excercise.csproj", "{B0244358-BE2B-45BE-AB69-2E403142E58A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -84,5 +86,9 @@ Global
 		{F298C192-3288-4ED1-8A09-7F8330A68FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F298C192-3288-4ED1-8A09-7F8330A68FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F298C192-3288-4ED1-8A09-7F8330A68FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0244358-BE2B-45BE-AB69-2E403142E58A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0244358-BE2B-45BE-AB69-2E403142E58A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0244358-BE2B-45BE-AB69-2E403142E58A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0244358-BE2B-45BE-AB69-2E403142E58A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

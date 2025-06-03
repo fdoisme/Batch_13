@@ -1,11 +1,11 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Text.Json;
-string block = 
+string block =
 @"
 ...
 ...
 ";
-string blockBlack = 
+string blockBlack =
 """
 ######
 ######
@@ -18,7 +18,7 @@ string blockWhite =
 G8****
 """;
 var result = string.Concat(
-    Enumerable.Range(1, 4)  // Ulangi sebanyak 4 kali
+    Enumerable.Range(1, 2)  // Ulangi sebanyak 4 kali
         .Select(i =>
             blockBlack.Replace("A1", $"A{i}") +
             "$$$$$$" +
@@ -45,9 +45,9 @@ for (int i = 0; i < boardChess.Length; i++)
     }
 }
 // Console.Write(block);
-Console.Write(blockBlack);
-Console.Write(blockWhite);
-Console.WriteLine(blockBlack+blockWhite);
+// Console.Write(blockBlack);
+// Console.Write(blockWhite);
+// Console.WriteLine(blockBlack + blockWhite);
 // for (int i = 0; i < boardChess.Length; i++)
 // {
 //     for (int j = 0; j < boardChess[i].Length; j++)
@@ -75,21 +75,21 @@ Console.WriteLine(blockBlack+blockWhite);
 // Console.WriteLine(blockBlack);
 // Console.WriteLine(blockWhite);
 string pola = "######[][][][][][]######[][][][][][]######[][][][][][]";
-        int barisBoard = 3;
+int barisBoard = 3;
 
-        // Cetak board dan simpan posisi baris terakhir
-        for (int i = 0; i < barisBoard; i++)
-        {
-            Console.WriteLine(pola);
-        }
+// Cetak board dan simpan posisi baris terakhir
+for (int i = 0; i < barisBoard; i++)
+{
+    // Console.WriteLine(pola);
+}
 
-        // Hitung posisi prompt (kanan dari pola baris terakhir)
-        int promptX = pola.Length + 2; // +2 untuk spasi antara board dan input
-        int promptY = barisBoard - 1; // baris terakhir (0-based)
+// Hitung posisi prompt (kanan dari pola baris terakhir)
+int promptX = pola.Length + 2; // +2 untuk spasi antara board dan input
+int promptY = barisBoard - 1; // baris terakhir (0-based)
 
-        // Pindah kursor ke posisi di samping board
-        Console.SetCursorPosition(promptX, promptY);
-        Console.Write("Your turn: ");
+// Pindah kursor ke posisi di samping board
+// Console.SetCursorPosition(promptX, promptY);
+Console.Write("Your turn: ");
 
-        // Baca input di posisi tersebut
-        string input = Console.ReadLine();
+// Baca input di posisi tersebut
+// string input = Console.ReadLine();

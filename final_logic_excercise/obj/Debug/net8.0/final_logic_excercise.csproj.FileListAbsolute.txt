@@ -1,0 +1,15 @@
+C:\Batch_13\final_logic_excercise\bin\Debug\net8.0\final_logic_excercise.exe
+C:\Batch_13\final_logic_excercise\bin\Debug\net8.0\final_logic_excercise.deps.json
+C:\Batch_13\final_logic_excercise\bin\Debug\net8.0\final_logic_excercise.runtimeconfig.json
+C:\Batch_13\final_logic_excercise\bin\Debug\net8.0\final_logic_excercise.dll
+C:\Batch_13\final_logic_excercise\bin\Debug\net8.0\final_logic_excercise.pdb
+C:\Batch_13\final_logic_excercise\obj\Debug\net8.0\final_logic_excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Batch_13\final_logic_excercise\obj\Debug\net8.0\final_logic_excercise.AssemblyInfoInputs.cache
+C:\Batch_13\final_logic_excercise\obj\Debug\net8.0\final_logic_excercise.AssemblyInfo.cs
+C:\Batch_13\final_logic_excercise\obj\Debug\net8.0\final_logic_excercise.csproj.CoreCompileInputs.cache
+C:\Batch_13\final_logic_excercise\obj\Debug\net8.0\final_logic_excercise.sourcelink.json
+C:\Batch_13\final_logic_excercise\obj\Debug\net8.0\final_logic_excercise.dll
+C:\Batch_13\final_logic_excercise\obj\Debug\net8.0\refint\final_logic_excercise.dll
+C:\Batch_13\final_logic_excercise\obj\Debug\net8.0\final_logic_excercise.pdb
+C:\Batch_13\final_logic_excercise\obj\Debug\net8.0\final_logic_excercise.genruntimeconfig.cache
+C:\Batch_13\final_logic_excercise\obj\Debug\net8.0\ref\final_logic_excercise.dll
