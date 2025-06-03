@@ -15,11 +15,13 @@ while (true)
     switch (rest)
     {
         case 1:
-            responseAPI = api.GetAll(number);
+            responseAPI = api.GetAll();
             Console.WriteLine(JsonSerializer.Serialize(responseAPI));
             break;
         case 2:
-            responseAPI = api.GetById(number);
+            Console.Write("Masukkan id: ");
+            int byId = int.Parse(Console.ReadLine());
+            responseAPI = api.GetById(byId);
             Console.WriteLine(JsonSerializer.Serialize(responseAPI));
             break;
         case 3:
@@ -47,12 +49,12 @@ public class API
             new Dictionary<int, string> { { 7, "jazz" } },
             new Dictionary<int, string> { { 9, "huzz" } }
         };
-    public Response GetAll(int number)
+    public Response GetAll()
     {
         return new Response
         {
             Status = "Success",
-            Message = LogicGenerator(number)
+            Message = LogicGenerator(this.rangeNumber)
         };
     }
     public Response GetById(int number)
@@ -60,7 +62,7 @@ public class API
         return new Response
         {
             Status = "Success",
-            Message = LogicGenerator(number, number)
+            Message = LogicGenerator(this.rangeNumber, number)
         };
     }
     public Response PostRule(int number, string rule)
